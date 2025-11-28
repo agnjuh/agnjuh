@@ -24,5 +24,5 @@ This profile includes selected public examples and smaller code snippets that il
 
 ### Contact & links
 For collaboration or professional enquiries, feel free to contact me.
-**Portfolio and contact:** https://linkedin.com/in/agnesjjuhasz](https://agnjuh.github.io
+**Portfolio and contact:** https://agnjuh.github.io
  
