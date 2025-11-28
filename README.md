@@ -23,5 +23,5 @@ This profile includes selected public examples and smaller code snippets that il
 ---
 
 ### Contact
-**Portfolio and contact:** https://agnjuh.github.io
+For collaboration or professional enquiries, you can reach me at: https://agnjuh.github.io
  
