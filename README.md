@@ -7,9 +7,9 @@ My work includes reproducible pipelines and machine-learning workflows in Python
 ---
 
 ### Focus areas
-- **Experimental molecular biology:** CRISPR editing, stem cells, organoids, microscopy  
+- **Experimental molecular biology:** CRISPR editing, stem cells, organoids, advanced microscopy  
 - **Spatial and imaging-based biology:** spatial transcriptomics, high-resolution imaging, quantitative image analysis  
-- **Computational genomics:** RNA-seq, ATAC-seq, ChIP-seq, GWAS, gene–environment modelling  
+- **Computational genomics:** NGS library preparation and sequencing QC; RNA-seq, ATAC-seq, ChIP-seq; variant analysis and integrative multi-omics; pathway and signalling network analysis; GWAS and gene–environment modelling  
 - **Machine learning in biology:** classification, feature-level interpretation, predictive modelling  
 - **Workflow automation:** reproducible pipelines with Snakemake and Conda  
 
