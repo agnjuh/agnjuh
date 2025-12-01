@@ -1,4 +1,4 @@
-# Hi, I'm Ágnes
+# Hej, I'm Ágnes
 
 I am a biomedical scientist and molecular biotechnologist working across molecular biology, regenerative and developmental biology, spatial biology, and computational genomics. I integrate experimental systems such as stem cells, organoids, imaging, and genome engineering with data-driven approaches for large-scale omics analysis.
 
