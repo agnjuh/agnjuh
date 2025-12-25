@@ -2,8 +2,6 @@
 
 I am a biomedical scientist and molecular biotechnologist working across molecular biology, regenerative and developmental biology, spatial biology, and computational genomics. I integrate experimental systems such as stem cells, organoids, imaging, and genome engineering with data-driven approaches for large-scale omics analysis.
 
-My work includes reproducible pipelines and machine-learning workflows in Python and R. My interests focus on genetic and epigenetic regulation, tissue regeneration, signalling dynamics, and genome maintenance.
-
 ---
 
 ### Focus areas
