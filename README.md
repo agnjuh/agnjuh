@@ -5,11 +5,13 @@ Biomedical research scientist and molecular biotechnologist with experience span
 ---
 
 ### Focus areas
-- **Experimental molecular biology:** CRISPR editing, stem cells, organoids, advanced microscopy  
-- **Spatial and imaging-based biology:** spatial transcriptomics, high-resolution imaging, quantitative image analysis  
-- **Computational genomics:** NGS library preparation and sequencing QC; RNA-seq, ATAC-seq, ChIP-seq; variant analysis and integrative multi-omics; pathway and signalling network analysis; GWAS and gene–environment modelling  
-- **Machine learning in biology:** classification, feature-level interpretation, predictive modelling  
-- **Workflow automation:** reproducible pipelines with Snakemake and Conda  
+Immunology, haematology, and cancer biology
+Cellular plasticity, immune-cell states, and disease mechanisms
+Stem cells, organoids, CRISPR, and experimental molecular biology
+Single-cell transcriptomics and systems biology
+Perturbation analysis, transcriptional regulation, and multi-omics integration
+Machine learning for biological data analysis
+Reproducible scientific computing with Python, R, and Snakemake
 
 ---
 
