@@ -5,13 +5,13 @@ Biomedical research scientist and molecular biotechnologist with experience span
 ---
 
 ### Focus areas
-Immunology, haematology, and cancer biology,
-cellular plasticity, immune-cell states, and disease mechanisms,
-stem cells, organoids, CRISPR, and experimental molecular biology,
-single-cell transcriptomics and systems biology,
-perturbation analysis, transcriptional regulation, and multi-omics integration,
-machine learning for biological data analysis,
-reproducible scientific computing with Python, R, and Snakemake
+- Immunology, haematology, and cancer biology
+- Cellular plasticity, immune-cell states, and disease mechanisms
+- Stem cells, organoids, CRISPR, and experimental molecular biology
+- Single-cell transcriptomics and systems biology
+- Perturbation analysis, transcriptional regulation, and multi-omics integration
+- Machine learning for biological data analysis
+- Reproducible computing with Python, R, and Snakemake
 
 ---
 
