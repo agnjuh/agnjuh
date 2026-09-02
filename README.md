@@ -17,8 +17,7 @@ Biomedical consultant scientist and molecular biotechnologist with experience sp
 
 ### Repositories & projects
 Some of my current projects involve experimental and computational workflows that are not publicly available while work is ongoing.
-
-This profile includes selected public examples and smaller code snippets that illustrate my analytical and methodological approaches. In collaborative or professional contexts, additional technical details can be shared, and access to specific materials may be possible under appropriate confidentiality agreements.
+In collaborative or professional contexts, additional technical details can be shared, and access to specific materials may be possible under appropriate confidentiality agreements.
 
 ---
 
